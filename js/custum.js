@@ -1,0 +1,4 @@
+$().alert('dispose');
+
+
+$().alert('close');
